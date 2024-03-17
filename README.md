@@ -43,5 +43,5 @@ gobuster dir -e -u http://10.10.104.61/ -w Downloads/common.txt
 
 ## Authors
 
-- [@Rakulan](https://www.github.com/octokatherine)
+- [@Rakulan](https://github.com/Rakulan7)
 - [@Roslan]()
